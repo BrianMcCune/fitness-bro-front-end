@@ -11,7 +11,7 @@ This is an app that allows a user to improve their fitness by giving them the ab
 
 ## Contributers 
 - Matthew Pourroy, view GitHub Profile [Here](https://github.com/pourroymatt750)
-- Brian McCune, view Github Profile [Here](https://github.com/Brian4755)
+- Brian McCune, view Github Profile [Here](https://github.com/Brianmccune)
 - Alexandrea Hom, view GitHub Profile [Here](https://github.com/alexandreahom)
 - Omar Farah, view GitHub Profile [Here](https://github.com/therealOfarah)
 
